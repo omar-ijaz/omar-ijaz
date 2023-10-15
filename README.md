@@ -27,3 +27,7 @@ I am a python and SQL developer <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+- SQL
+- Python
+- Matlab
+  
