@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/1CsHxj6Q2iEeH4HhT7/giphy.gif" width="100"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/omar-ijaz-922a93181" rel="nofollow noreferrer">
@@ -9,7 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=omar-ijaz&style=flat-square&color=blue" alt=""/>
 <h1>
   hey there
-  <img src="https://media.giphy.com/media/5HyXGsoFzXWPKFx07j/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
