@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me :
 I am a python and SQL developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan
-- :telescope: I'm pursuing a masters degree in data science from the University of Essex, United Kingdom.
+- :telescope: Currently pursuing a masters degree in data science from the University of Essex, United Kingdom.
 
 - :seedling: Exploring big data analytics and machine learning.
 
