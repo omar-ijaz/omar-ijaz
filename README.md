@@ -13,3 +13,14 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+---
+
+### :man_technologist: About Me :
+I am a python and SQL developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Pakistan
+- :telescope: I'm pursuing a masters degree in data science from the University of Essex, United Kingdom.
+
+- :seedling: Exploring big data analytics and machine learning.
+
+- :zap: In my free time, I solve coding challenges on HackerRank.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/omar-ijaz-922a93181)
