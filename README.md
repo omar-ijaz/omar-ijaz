@@ -27,7 +27,11 @@ I am a python and SQL developer <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-- SQL
-- Python
-- Matlab
+<div>
+ 
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title="Python"  alt="Python" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="45" height="45"/>&nbsp;
+ 
+  
+</div>
   
