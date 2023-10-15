@@ -24,3 +24,6 @@ I am a python and SQL developer <img src="https://media.giphy.com/media/WUlplcMp
 - :zap: In my free time, I solve coding challenges on HackerRank.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/omar-ijaz-922a93181)
+---
+
+### :hammer_and_wrench: Languages and Tools :
